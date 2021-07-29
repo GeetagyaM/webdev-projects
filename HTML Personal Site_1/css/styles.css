@@ -1,0 +1,24 @@
+  /*TAG SELECTORS*/
+  body {
+    background-color:#bbe1fa;
+    color:#0f4c75;
+  }
+
+  hr {
+    background-color: none;
+    border-style: dotted none none;
+    height: 0px;
+    width: 10%;
+    border-width: 5px;
+    border-color: #3282b8;
+  }
+  h3{color:#1b262c; }
+  h1{color: #1b262c;}
+  img:hover{background-color: gold;}
+/*CLASS SEELECTORS*/
+
+.flute{background-color: green;}
+.guitars{background-color: blue;}
+
+/*ID SELECTOR*/
+#heading{color:red;}
